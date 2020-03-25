@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.MegaSena.Json", "Bot.Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.MegaSena", "Bot.MegaSena\Bot.MegaSena.csproj", "{1F0825FD-E484-4406-86C0-67831613D7DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.Instagram.Profile", "Bot.Instagram.Profile\Bot.Instagram.Profile.csproj", "{1B5D80E1-5444-4491-B63B-30CEE1D38877}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F0825FD-E484-4406-86C0-67831613D7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0825FD-E484-4406-86C0-67831613D7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0825FD-E484-4406-86C0-67831613D7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5D80E1-5444-4491-B63B-30CEE1D38877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5D80E1-5444-4491-B63B-30CEE1D38877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5D80E1-5444-4491-B63B-30CEE1D38877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5D80E1-5444-4491-B63B-30CEE1D38877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
